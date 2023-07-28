@@ -1,2 +1,2 @@
 # Myfirstrepo
-Creating my first repo to work in Qwilabs.
+I am editing the README file. Adding some more details about the project description.
